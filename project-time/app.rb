@@ -12,5 +12,4 @@ post '/' do
   }
   erb :index
   end
-
 end
